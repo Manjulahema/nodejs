@@ -1,0 +1,27 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manjulahema/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manjulahema/nodejs/issues"
+  },
+  "homepage": "https://github.com/Manjulahema/nodejs#readme",
+  "devDependencies": {
+    "chromedriver": "^76.0.0",
+    "nightwatch": "^1.1.13",
+    "selenium-server": "^3.141.59"
+  },
+  "dependencies": {
+    "npm-git-install": "^0.3.0"
+  }
+}
